@@ -1,15 +1,15 @@
 # Юрий Уваров - Frontend developer
 
 ## Реальные проекты:
-- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта
-- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта
-- [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица
-- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта
-- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js
+- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [_демо_](https://odds.frontend.uvarov.tech/)
+- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, [_демо_](https://myitcareer.frontend.uvarov.tech/)
+- [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица, [_демо_](https://standings.frontend.uvarov.tech/)
+- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта, [_демо_](https://vprognoze.frontend.uvarov.tech/)
+- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, [_демо_](https://istra-les.uvarov.tech/)
 
 ## Мои самописные плагины:
-- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна
-- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`
+- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна, [_демо_](https://vanilla-popup.frontend.uvarov.tech/)
+- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`, [_демо_](https://vanilla-select.frontend.uvarov.tech/)
 
 ## Мои сборки:
 - [Gulp](https://github.com/uvarov-frontend/gulp4-pug-scss-frontend) - Инкрементальная сборка Gulp
