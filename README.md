@@ -1,8 +1,19 @@
 # Юрий Уваров - Frontend developer
 
-## Верстка, только реальные проекты:
+## Реальные проекты:
+- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта
+- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта
+- [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица
+- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта
+- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js
 
 ## Мои самописные плагины:
+- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна
+- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`
+
+## Мои сборки:
+- [Gulp](https://github.com/uvarov-frontend/gulp4-pug-scss-frontend) - Инкрементальная сборка Gulp
+- [Webpack](https://github.com/uvarov-frontend/webpack-5-frontend-starter) - Универсальная стартовая frontend сборка Webpack
 
 ## Мой стек:
 ![HTML5](https://img.shields.io/badge/HTML5-rgb(19,27,40)?style=for-the-badge&logo=HTML5)
@@ -18,5 +29,5 @@
 ![Webpack](https://img.shields.io/badge/Webpack-rgb(19,27,40)?style=for-the-badge&logo=Webpack)
 ![Photoshop](https://img.shields.io/badge/Photoshop-rgb(19,27,40)?style=for-the-badge&logo=adobephotoshop)
 ![FIGMA](https://img.shields.io/badge/Figma-rgb(19,27,40)?style=for-the-badge&logo=figma)
-![visualstudio](https://img.shields.io/badge/vscode-rgb(19,27,40)?style=for-the-badge&logo=visualstudio)
-![webstorm](https://img.shields.io/badge/webstorm-rgb(19,27,40)?style=for-the-badge&logo=webstorm)
+![VSCode](https://img.shields.io/badge/vscode-rgb(19,27,40)?style=for-the-badge&logo=visualstudio)
+![Webstorm](https://img.shields.io/badge/webstorm-rgb(19,27,40)?style=for-the-badge&logo=webstorm)
