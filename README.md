@@ -1,15 +1,15 @@
 # Юрий Уваров - Frontend developer
 
 ## Реальные проекты:
-- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [_демо_](https://odds.frontend.uvarov.tech/)
-- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, [_демо_](https://myitcareer.frontend.uvarov.tech/)
-- [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица, [_демо_](https://standings.frontend.uvarov.tech/)
-- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта, [_демо_](https://vprognoze.frontend.uvarov.tech/)
-- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, [_демо_](https://istra-les.uvarov.tech/)
+- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, <a href="https://odds.frontend.uvarov.tech/" target="_blank">[демо]</a>
+- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, <a href="https://myitcareer.frontend.uvarov.tech/" target="_blank">[демо]</a>
+- [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица, <a href="https://standings.frontend.uvarov.tech/" target="_blank">[демо]</a>
+- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта, <a href="https://vprognoze.frontend.uvarov.tech/" target="_blank">[демо]</a>
+- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, <a href="https://istra-les.uvarov.tech/" target="_blank">[демо]</a>
 
 ## Мои самописные плагины:
-- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна, [_демо_](https://vanilla-popup.frontend.uvarov.tech/)
-- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`, [_демо_](https://vanilla-select.frontend.uvarov.tech/)
+- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна, <a href="https://vanilla-popup.frontend.uvarov.tech/" target="_blank">[демо]</a>
+- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`, <a href="https://vanilla-select.frontend.uvarov.tech/" target="_blank">[демо]</a>
 
 ## Мои сборки:
 - [Gulp](https://github.com/uvarov-frontend/gulp4-pug-scss-frontend) - Инкрементальная сборка Gulp
