@@ -8,9 +8,9 @@
 - [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, [демо](https://istra-les.uvarov.tech/)
 
 ## Мои JS плагины:
+- [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Плагин календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
 - [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна, [демо](https://vanilla-popup.frontend.uvarov.tech/)
 - [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`, [демо](https://vanilla-select.frontend.uvarov.tech/)
-- [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Плагин календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
 
 ## Мои сборки:
 - [Gulp](https://github.com/uvarov-frontend/gulp4-pug-scss-frontend) - Инкрементальная сборка Gulp
