@@ -1,4 +1,4 @@
-# Юрий Уваров - Frontend developer
+# Юрий Уваров - Frontend Developer
 
 ## Реальные проекты:
 - [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [демо](https://odds.frontend.uvarov.tech/)
