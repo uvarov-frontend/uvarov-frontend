@@ -7,7 +7,7 @@
 
 ## JS Модули:
 - [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Модуль календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
-- [vanilla-sticky](https://github.com/uvarov-frontend/vanilla-sticky) - Плагин календаря, [демо](https://vanilla-sticky.frontend.uvarov.tech/)
+- [vanilla-sticky](https://github.com/uvarov-frontend/vanilla-sticky) - Модуль позволяющий прикрипить блок к нижней или верхней границе окна браузера во время скролла, [демо](https://vanilla-sticky.frontend.uvarov.tech/)
 - [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Модуль модального окна, [демо](https://vanilla-popup.frontend.uvarov.tech/)
 - [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Модуль кастомного выпадающего списка `<select>`, [демо](https://vanilla-select.frontend.uvarov.tech/)
 
