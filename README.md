@@ -1,20 +1,17 @@
 # Юрий Уваров - Frontend Developer
 
-## Реальные проекты:
+## Проекты:
 - [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [демо](https://odds.frontend.uvarov.tech/)
 - [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, [демо](https://myitcareer.frontend.uvarov.tech/)
 - [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица, [демо](https://standings.frontend.uvarov.tech/)
 - [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта, [демо](https://vprognoze.frontend.uvarov.tech/)
 - [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, [демо](https://istra-les.uvarov.tech/)
 
-## Мои JS плагины:
-- [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Плагин календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
-- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Плагин модального окна, [демо](https://vanilla-popup.frontend.uvarov.tech/)
-- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Плагин кастомного выпадающего списка `<select>`, [демо](https://vanilla-select.frontend.uvarov.tech/)
-
-## Мои сборки:
-- [Gulp](https://github.com/uvarov-frontend/gulp4-pug-scss-frontend) - Инкрементальная сборка Gulp
-- [Webpack](https://github.com/uvarov-frontend/webpack-5-frontend-starter) - Универсальная стартовая frontend сборка Webpack
+## JS Модули:
+- [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Модуль календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
+- [vanilla-sticky](https://github.com/uvarov-frontend/vanilla-sticky) - Плагин календаря, [демо](https://vanilla-sticky.frontend.uvarov.tech/)
+- [vanilla-popup](https://github.com/uvarov-frontend/vanilla-popup) - Модуль модального окна, [демо](https://vanilla-popup.frontend.uvarov.tech/)
+- [vanilla-select](https://github.com/uvarov-frontend/vanilla-select) - Модуль кастомного выпадающего списка `<select>`, [демо](https://vanilla-select.frontend.uvarov.tech/)
 
 ## Мой стек:
 ![HTML5](https://img.shields.io/badge/HTML5-rgb(19,27,40)?style=for-the-badge&logo=HTML5)
