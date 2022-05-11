@@ -1,11 +1,9 @@
 # Юрий Уваров - Frontend Developer
 
 ## Проекты:
-- [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [демо](https://odds.frontend.uvarov.tech/)
-- [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, [демо](https://myitcareer.frontend.uvarov.tech/)
+- 🔐 [ODDS](https://github.com/uvarov-frontend/odds) - Верстка многостраничного сайта, [демо](https://odds.frontend.uvarov.tech/)
+- 🔐 [MyITCareer](https://github.com/uvarov-frontend/myitcareer) - Верстка многостраничного сайта, [демо](https://myitcareer.frontend.uvarov.tech/)
 - [Плей-офф Евро-2020](https://github.com/uvarov-frontend/standings) - Адаптивная турнирная таблица, [демо](https://standings.frontend.uvarov.tech/)
-- [VPROGNOZE](https://github.com/uvarov-frontend/vprognoze) - Верстка компонентов сайта, [демо](https://vprognoze.frontend.uvarov.tech/)
-- [Истра Лес](https://github.com/uvarov-frontend/istra-les) - Сайт на Vue.js, [демо](https://istra-les.uvarov.tech/)
 
 ## JS Модули:
 - [vanilla-calendar](https://github.com/uvarov-frontend/vanilla-calendar) - Модуль календаря, [демо](https://vanilla-calendar.frontend.uvarov.tech/)
