@@ -8,6 +8,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-rgb(19,27,40)?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/React-rgb(19,27,40)?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-rgb(19,27,40)?style=for-the-badge&logo=Redux)
+![Axios](https://img.shields.io/badge/Axios-rgb(19,27,40)?style=for-the-badge&logo=Axios)
 ![NPM](https://img.shields.io/badge/NPM-rgb(19,27,40)?style=for-the-badge&logo=NPM)
 ![GIT](https://img.shields.io/badge/GIT-rgb(19,27,40)?style=for-the-badge&logo=GIT)
 ![Gulp](https://img.shields.io/badge/Gulp-rgb(19,27,40)?style=for-the-badge&logo=Gulp)
