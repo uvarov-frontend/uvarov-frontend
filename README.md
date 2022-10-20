@@ -4,6 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-rgb(19,27,40)?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/SCSS-rgb(19,27,40)?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-rgb(19,27,40)?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-rgb(19,27,40)?style=for-the-badge&logo=TypeScript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-rgb(19,27,40)?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/React-rgb(19,27,40)?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-rgb(19,27,40)?style=for-the-badge&logo=Redux)
