@@ -11,6 +11,7 @@
 ![Axios](https://img.shields.io/badge/Axios-rgb(19,27,40)?style=for-the-badge&logo=Axios)
 ![Eslint](https://img.shields.io/badge/Eslint-rgb(19,27,40)?style=for-the-badge&logo=Eslint)
 ![NPM](https://img.shields.io/badge/NPM-rgb(19,27,40)?style=for-the-badge&logo=NPM)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-rgb(19,27,40)?style=for-the-badge&logo=tailwindcss)
 ![GIT](https://img.shields.io/badge/GIT-rgb(19,27,40)?style=for-the-badge&logo=GIT)
 ![Gulp](https://img.shields.io/badge/Gulp-rgb(19,27,40)?style=for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/Webpack-rgb(19,27,40)?style=for-the-badge&logo=Webpack)
