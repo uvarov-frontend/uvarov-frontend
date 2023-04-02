@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/React-rgb(19,27,40)?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-rgb(19,27,40)?style=for-the-badge&logo=Redux)
 ![Axios](https://img.shields.io/badge/Axios-rgb(19,27,40)?style=for-the-badge&logo=Axios)
+![Next.js](https://img.shields.io/badge/Next.js-rgb(19,27,40)?style=for-the-badge&logo=Next.js)
 ![Eslint](https://img.shields.io/badge/Eslint-rgb(19,27,40)?style=for-the-badge&logo=Eslint)
 ![NPM](https://img.shields.io/badge/NPM-rgb(19,27,40)?style=for-the-badge&logo=NPM)
 ![GIT](https://img.shields.io/badge/GIT-rgb(19,27,40)?style=for-the-badge&logo=GIT)
