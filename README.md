@@ -6,7 +6,7 @@ I write in JavaScript. I won't list all the possible libraries and frameworks I'
 
 For me, a computer is not just work, it's my life. I spend a lot of my time on it. In my free time, I study new technologies and English, and contribute to open-source projects.
 
-I like Korean dramas, great music, and reasonable, non-toxic people without prejudices.
+I like Korean dramas, great music, and reasonable people without prejudices.
 
 ![HTML5](https://img.shields.io/badge/HTML5-rgb(19,27,40)?style=for-the-badge&logo=HTML5)
 ![Pug](https://img.shields.io/badge/Pug-rgb(19,27,40)?style=for-the-badge&logo=Pug)
