@@ -1,10 +1,6 @@
 Hi! 👋
 
-I am a frontend developer since 2014.
-
-I write in JavaScript. I won't list all the possible libraries and frameworks I've encountered, as they are all JavaScript. Understanding native JavaScript allows you to learn the syntax of any library or framework with ease. I use AI for my daily tasks and consider it a tool that speeds up the development process significantly.
-
-For me, a computer is not just work, it's my life. I spend a lot of my time on it. In my free time, I study new technologies and English, and contribute to open-source projects.
+I am a frontend developer 😄, write to [telegram](https://t.me/uvarov_frontend) if you have any questions! I am glad to communicate with people from all over the world! Peace and kindness to all! ❤️
 
 ![HTML5](https://img.shields.io/badge/HTML5-rgb(19,27,40)?style=for-the-badge&logo=HTML5)
 ![Pug](https://img.shields.io/badge/Pug-rgb(19,27,40)?style=for-the-badge&logo=Pug)
